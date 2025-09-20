@@ -1,6 +1,6 @@
-# Data Visualization for B.S. and M.S. Students
+# Data Visualization Experiments
 
-This repository contains a collection of Jupyter notebooks designed to teach the fundamentals of data visualization to B.S. and M.S. students. The notebooks cover a range of popular Python libraries, including Matplotlib, Seaborn, and Plotly, and provide a solid foundation for students to build upon.
+This repository contains a collection of Jupyter notebooks designed to understand the fundamentals of data visualization. The notebooks cover a range of popular Python libraries, including Matplotlib, Seaborn, and Plotly, and provide a solid foundation for developers/students to build upon.
 
 ## Notebooks
 
